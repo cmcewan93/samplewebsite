@@ -1,0 +1,9 @@
+/*
+  uses flex box, very powerful look it up, makes it responsive
+*/
+
+.TopNav {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
